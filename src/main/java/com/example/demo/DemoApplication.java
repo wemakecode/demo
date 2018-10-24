@@ -12,5 +12,6 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
         System.out.println("Spring Boot Started.");
         //테스트
+        //테스트2
     }
 }
